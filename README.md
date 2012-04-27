@@ -2,7 +2,6 @@ bf-oneliner
 ==========
 Brainf*ck 2 Python oneliner
 
-
 Usage:
 --------
        -s     print oneliner source
@@ -19,4 +18,11 @@ To run
 Test
 -------- 
     python bf_test.py
+
+How to make oneliner in Python?
+--------
+
+<http://www.nishiohirokazu.org/blog/2006/09/how_to_write_oneliner_in_pytho.html>
+
+by Hirokazu NISHIO
 
